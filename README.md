@@ -169,7 +169,7 @@ bash main.sh
     [PunleuTY](https://github.com/PunleuTY)
   </div>
    <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://github.com/Mey15.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://github.com/Mey15.png" alt="Mey15's Profile" width="50" height="50" style="border-radius: 50%;" />
     [Mey15](https://github.com/Mey15)
   </div>
 </div>
