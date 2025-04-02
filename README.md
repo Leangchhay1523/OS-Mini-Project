@@ -161,7 +161,7 @@ bash main.sh
     [Leangchhay1523](https://github.com/Leangchhay1523)
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://github.com/Sitharath-s.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://github.com/Sitharath-s.png" alt="Sitharath-S's Profile" width="50" height="50" style="border-radius: 50%;" />
     [Sitharath-S](https://github.com/Sitharath-s)
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
