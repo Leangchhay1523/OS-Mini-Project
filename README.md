@@ -162,7 +162,7 @@ bash main.sh
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github.com/Sitharath-s.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
-    [Sitharath-S](ttps://github.com/Sitharath-s)
+    [Sitharath-S](https://github.com/Sitharath-s)
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github.com/PunleuTY.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
