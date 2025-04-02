@@ -158,18 +158,18 @@ bash main.sh
 <div style="display: grid; grid-template-columns: repeat(4, 1fr);">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github.com/Leangchhay1523.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
-    <p>Leangchhay1523</p>
+    [Leangchhay1523](https://github.com/Leangchhay1523)
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github.com/Sitharath-s.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
-    <p>Sitharath-S</p>
+    [Sitharath-S](ttps://github.com/Sitharath-s)
   </div>
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github.com/PunleuTY.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
-    <p>PunleuTY</p>
+    [PunleuTY](https://github.com/PunleuTY)
   </div>
    <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://github.com/Mey15.png" alt="Leangchhay Profile" width="50" height="50" style="border-radius: 50%;" />
-    <p>Mey15</p>
+    [Mey15](https://github.com/Mey15)
   </div>
 </div>
