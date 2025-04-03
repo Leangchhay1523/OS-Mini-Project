@@ -11,7 +11,7 @@ compress() {
     echo "Enter output filename (no extension): "
 	read output
 
-    if [ ! -e "$target" ]; then  
+    if [[ ! -e "$target" ]]; then  
         echo "The file/directory does not exist." 
         log_action "Error: The file/directory does not exist." 
         exit 1  

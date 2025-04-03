@@ -9,7 +9,7 @@ count_files() {
     log_action "User started counting files in: $dir_path"
 
     # Check if the directory exists
-    if [ ! -d "$dir_path" ]; then  
+    if [[ ! -d "$dir_path" ]]; then  
         echo "The directory does not exist."  
         log_action "Error: The directory does not exist."
         exit 1    

@@ -8,7 +8,7 @@ backup() {
 
     log_action "User started backup for: $source_path"
 
-    if [ ! -e "$source_path" ]; then  
+    if [[ ! -e "$source_path" ]]; then  
         echo "The file/directory does not exist."
         log_action "The file/directory does not exist."
         exit 1
@@ -17,7 +17,7 @@ backup() {
 	echo "Enter backup destination: "
 	read backup_path
     
-    if [ ! -d "$backup_path" ]; then
+    if [[ ! -d "$backup_path" ]]; then
         mkdir -p "$backup_path"  # Create the backup directory if it doesn’t exist
         log_action "Created backup directory: $backup_path"
     fi

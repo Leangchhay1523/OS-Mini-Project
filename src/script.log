@@ -1,0 +1,25 @@
+Thu Apr  3 10:08:31 SEAST 2025: User started listing details for: ../../../
+Thu Apr  3 10:08:31 SEAST 2025: Listed details of directory: ../../../
+Thu Apr  3 10:09:38 SEAST 2025: User started checking disk usage for: ../
+Thu Apr  3 10:09:40 SEAST 2025: Disk usage checked for ../
+Thu Apr  3 10:10:00 SEAST 2025: User started checking disk usage for: ../
+Thu Apr  3 10:10:00 SEAST 2025: Disk usage checked for ../
+Thu Apr  3 10:12:47 SEAST 2025: User started listing details for: ../
+Thu Apr  3 10:12:47 SEAST 2025: Listed details of directory: ../
+Thu Apr  3 10:12:55 SEAST 2025: User started backup for: main.sh
+Thu Apr  3 10:12:57 SEAST 2025: Backup completed for main.sh to ../
+Thu Apr  3 10:13:03 SEAST 2025: User started listing details for: ../
+Thu Apr  3 10:13:03 SEAST 2025: Listed details of directory: ../
+Thu Apr  3 10:13:10 SEAST 2025: User started counting files in: ../
+Thu Apr  3 10:13:11 SEAST 2025: Count 106 files in ../
+Thu Apr  3 10:13:16 SEAST 2025: User started checking disk usage for: ../..
+Thu Apr  3 10:13:19 SEAST 2025: Disk usage checked for ../..
+Thu Apr  3 10:13:24 SEAST 2025: User started checking disk usage for: ../../
+Thu Apr  3 10:13:24 SEAST 2025: Disk usage checked for ../../
+Thu Apr  3 10:18:27 SEAST 2025: User started compression for: 
+Thu Apr  3 10:18:28 SEAST 2025: Error: The file/directory does not exist.
+Thu Apr  3 10:18:35 SEAST 2025: User started listing details for: ../
+Thu Apr  3 10:18:35 SEAST 2025: Listed details of directory: ../
+Thu Apr  3 10:18:39 SEAST 2025: User started backup for: ../
+Thu Apr  3 10:18:40 SEAST 2025: Created backup directory: 
+Thu Apr  3 10:18:40 SEAST 2025: Backup completed for ../ to 

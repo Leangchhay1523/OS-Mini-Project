@@ -8,7 +8,7 @@ search_file(){
 
     log_action "User started searching for files in: $directory"
 
-    if [ ! -d "$directory" ]; then  
+    if [[ ! -d "$directory" ]]; then  
         echo "Directory does not exist."  
         log_action "Error: Directory does not exist."
         exit 1  
